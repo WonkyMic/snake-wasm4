@@ -1,0 +1,1 @@
+/home/wonky/devnull/wasm4/snake/target/wasm32-unknown-unknown/debug/cart.wasm: /home/wonky/devnull/wasm4/snake/src/alloc.rs /home/wonky/devnull/wasm4/snake/src/game.rs /home/wonky/devnull/wasm4/snake/src/lib.rs /home/wonky/devnull/wasm4/snake/src/palette.rs /home/wonky/devnull/wasm4/snake/src/snake.rs /home/wonky/devnull/wasm4/snake/src/wasm4.rs
